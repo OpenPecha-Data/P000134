@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000134
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཐེག་པ་ཆེན་པོའི་གདམས་ངག་བློ་སྦྱོང་དོན་བདུན་མ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། སྒ་རབ་འབྱམས་པ་ཀུན་དགའ་ཡེ་ཤེས།
-  sku: IBA-MT-05-1
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - sabche
+  id: IBA-MT-05-1
 web_metadata:
   title:
     en: A Stream of Nectar:Instructions for Meditation on the Two Bodhichittas
